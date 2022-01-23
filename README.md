@@ -1,4 +1,4 @@
-# Drink-Water-Reminder
+# Drink-Water-Reminder [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A simple python script to receive notifications for drinking water at regular intervals. 
 
 Dependencies:
